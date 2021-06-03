@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Turkey, West-India, and other merchants and traders of London, in reference to the office of garbling</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18718</idno><idno type="EEBO-CITATION">99832171</idno>
+  <idno type="VID">198912</idno>
+  <idno type="EEBO-PROQUEST">2248535505</idno>
+  
+            <idno type="STC">Wing C1169B</idno>
+            <idno type="PROQUEST">99832171</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832171e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:107)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Turkey, West-India, and other merchants and traders of London, in reference to the office of garbling</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With docket title: Other merchants and traders against the office of garbling.</note>
+                  <note>Copy cropped at foot with loss of text.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England). --  Office of Garbling --  Early works to 1800.</term>
+               <term type="topical_term">Spice trade --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:198912:1"/>
+            <pb facs="tcp:198912:1"/>
+            <head>The CASE of the <hi>Turkey, West-India,</hi> and other <hi>Merchants</hi> and <hi>Traders</hi> of <hi>London,</hi> in Reference to the <hi>Office of GARBLING.</hi>
+            </head>
+            <p>THAT the Act for <hi>Garbling of Spices</hi> made 1 <hi>Jac.</hi> I. might then be convenient; but is now a <hi>Ʋseless, Vexatious Burthen on</hi> Trade <hi>and a Clog upon our</hi> Exportation.</p>
+            <p>When this Act was made <hi>Spices</hi> were Imported in their <hi>Soil,</hi>
+               <note place="margin">Useless.</note> but is now Imported <hi>perfectly Clean;</hi> That the <hi>Garblers</hi> Business for these many Years past hath been only to set his Seal on the Casks or Bales, and take his Money.</p>
+            <p>And for many <hi>Drugs,</hi> as <hi>Sena, Wormseed,</hi> sweet <hi>Fennel-Seed, Cassia Lignum, Pearl-Barley, Tea,</hi> &amp;c. if uses his Office upon them he <hi>spoils</hi> them.</p>
+            <p>By the Penalties of the Act if the Merchant makes not use of the <hi>Garbler</hi> his Goods are Seised and taken from him,<note place="margin">Vexatious.</note> and if he do make use of him his Goods are <hi>spoil'd:</hi> When the Act had Enumerated several Commodities it adds <hi>and all Goods Garbleable,</hi> which it seems to give him a <hi>Boundless Power,</hi> in so much that the present Officer (taking Advantage of those <hi>Ʋnlimited Words</hi>) does now pretend to <hi>Garble</hi> Twenty Eight Other Commodities besides those mentioned in the Act, some of which were unknown when that Act was made; and if any Merchant or Trader disputes his Authority he first Seises his Goods and then puts them into the <hi>Exchequer,</hi> where though he is frequently cast the <hi>Defendant</hi> recovers no Cost the Suit being in the King's Name; That when the <hi>Garbler</hi>'s Pretences amount to 40 or 50 <hi>s.</hi> or such a small Summ the Merchant being Dispossess'd of his Goods will pay it, because any Opposition will certainly cost him Five Times as much besides the loss of Time, Hinderance in his Affairs and the Vexation of a Law-Suit: And thus by degrees he will bring all <hi>Traders</hi> under <hi>Contribution.</hi>
+            </p>
+            <p>
+               <note place="margin">A Clog to Ex<g ref="char:EOLhyphen"/>portation.</note>The <hi>Levant-Company</hi> usually Imports from <hi>Turkey</hi> 6 or 7000 sacks Gauls <hi>per Annum,</hi> a useful Commodity in our <hi>Manufactories,</hi> The greater part whereof are Exported (be<g ref="char:EOLhyphen"/>sides several other Commodites) as <hi>Drugs</hi> and <hi>Gauls</hi> for Exportation, which have been never required to be <hi>Garbled</hi> 'till very lately; and if Insisted on, will occasion the Goods to be sent from <hi>Turkey</hi> directly to <hi>Holland</hi> and other Markets (to avoid the Vexation and Charge of that <hi>Office</hi>) to the Prejudice of the <hi>English Navigation</hi> and the Loss of His Majesties <hi>Customs.</hi>
+            </p>
+            <p>When this Act was made we had only a little <hi>Ginger</hi> from <hi>Portugal</hi> for our own Expence, but since that by our Plantations of <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rbadoes</hi> and the <hi>Leward-Islands,</hi> and the Taking <hi>Jamaica</hi> which was Fifty Years after the Act was made, we do not only Import for our Comsumption but to Furnish the <hi>Northern</hi> Markets, and to send gre<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Q<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>antities to the <hi>Mediteranian,</hi> in which Exportation the Merchants were ever undisturb'd by the <hi>Gar<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> 'till this last Year; but now he has formed a Claim upon this Commodity having begun to <hi>Exchequer</hi> the Exporters of it which will be of evil Consequence and a great Mischief to our <hi>Trade:</hi> For it is to be considered, That the Cheapness of any Commo<g ref="char:EOLhyphen"/>dity does encrease its Vent; and that if we can sell cheaper than other our Competitors in the Trade, we shall not only keep what Trade we have but encrease it.</p>
+            <p>If we were the Sole Masters of the Commodity we might Tax and Burthen it as we please, but the <hi>French</hi> and <hi>Dutch</hi> have their Plantations; That if we be pressed either by Old or New Invented Charges, the Trade will certainly be carried from us. <hi>Ginger</hi> in Times of Peace, doth but Cost in our Plantations 7 or 8 <hi>s. per C.</hi> His Majesty upon what is Exported only receives 9 <hi>d. per C.</hi> Custom, and the <hi>Garbler</hi> demands 12 <hi>d.</hi> which if the Exporter be forced to pay will be such a Burthen upon it, that the <hi>French</hi> and <hi>Dutch</hi> in a few Years will be the Sole Venders of that Commodity.</p>
+            <p>The <hi>Parliament</hi> have thought fit for the Export of Provisions to make the Custom free, and even to give a Reward of 5 <hi>s. per</hi> Quarter upon <hi>Wheat,</hi> and 2 <hi>s.</hi> 6 <hi>d.</hi> upon <hi>Barley, &amp;c.</hi> to those that Export them: <hi>Ginger Gauls</hi> and all other Goods Exported will as certainly bring Riches to the Nation and prevent the Export of <hi>Bullion.</hi>
+            </p>
+            <p>This Act amongst many other Old Ones had remained obsolete and dissus'd were it not that the Lord Mayors do Sell this Office, Mr. <hi>Stewart</hi> owning that he gave 976 <hi>l.</hi> for it to Sir <hi>Robert Jefferies,</hi> the then Lord Mayor; and the Rent to the City is only 300 <hi>l. per Annum;</hi> whereas by the present Execution 5 or 6000 <hi>l. per Annum</hi> may be raised upon the Subject from It.</p>
+            <p>It is presumed that this Office in its first Institution, was not intrusted in the Hands of the Majestracy to raise Revenues out of It to themselves; but let that be as it will, <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:198912:2"/>
+            <pb facs="tcp:198912:2"/>
+            <p>
+               <hi>Other</hi> Merchants <hi>and</hi> Traders Against the OFFICE of GARBLING.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
